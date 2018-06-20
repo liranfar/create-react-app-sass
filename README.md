@@ -1,5 +1,5 @@
 # create-react-app with sass loader
-integrating .scss support in create-react-app
+integrating [.scss] (https://sass-lang.com/) in create-react-app
 
 ## Usage
 ```
