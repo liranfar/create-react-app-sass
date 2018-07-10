@@ -22,6 +22,10 @@ npm start
                 loader: require.resolve('sass-loader'),
               },
     ```     
+1. in `path.js` change `appIndexJs` as follows:
+```
+appIndexJs: resolveApp('src/scripts/index.js'),
+```
 
 ## Resources
 https://www.youtube.com/watch?v=akxn6uYavf0
